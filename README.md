@@ -39,6 +39,6 @@ I'm currently a student in <a href="https://mmu.ac.ke" target="_blank" rel="noop
 ![](https://github-contributor-stats.vercel.app/api?username=joenikkai&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-<a href="https://visitcount.itsvg.in" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=joenikkai&icon=0&color=0" alt=""></a>
+<a href="https://visitcount.itsvg.in" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=joenikkai&icon=0&color=purple" alt=""></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
